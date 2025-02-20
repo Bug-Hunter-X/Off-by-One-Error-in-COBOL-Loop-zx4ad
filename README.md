@@ -1,0 +1,1 @@
+This repository demonstrates a common off-by-one error in COBOL loops. The `bug.cob` file contains the erroneous code, while `bugSolution.cob` provides the corrected version.  The error stems from misunderstanding how the loop's termination condition interacts with the counter's increment.
